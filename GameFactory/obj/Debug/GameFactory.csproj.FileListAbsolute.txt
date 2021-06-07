@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\GameFactory\GameFactory\obj\Debug\GameFactory.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\GameFactory\GameFactory\obj\Debug\GameFactory.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\GameFactory\GameFactory\bin\Debug\GameFactory.exe.config
+C:\Users\Никита\source\repos\GameFactory\GameFactory\bin\Debug\GameFactory.exe
+C:\Users\Никита\source\repos\GameFactory\GameFactory\bin\Debug\GameFactory.pdb
+C:\Users\Никита\source\repos\GameFactory\GameFactory\obj\Debug\GameFactory.exe
+C:\Users\Никита\source\repos\GameFactory\GameFactory\obj\Debug\GameFactory.pdb
